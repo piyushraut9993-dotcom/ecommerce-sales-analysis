@@ -1,0 +1,11 @@
+KEY INSIGHTS
+============
+- Total Revenue: ₹40,921,364 across 5,000 orders
+- Average Order Value: ₹8,184
+- Overall Return Rate: 5.2%
+- Top Category by Revenue: Electronics (₹23,989,538)
+- Top Performing Region: North (28.6% of revenue)
+- Peak Sales Month: 2024-11
+- Most Used Payment Method: UPI (2101 orders)
+- Return rate does not increase steadily with discount depth — it ranges narrowly between 3.7% and 5.8% across all discount tiers, suggesting discounting alone isn't a strong driver of returns
+- Festive season (Oct-Dec) shows a visible revenue spike in the monthly trend chart
